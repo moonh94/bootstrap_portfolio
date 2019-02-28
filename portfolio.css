@@ -1,0 +1,28 @@
+
+body {
+    background: lightblue;
+}
+
+
+.container {
+    width: 75%;
+    border: 40px;
+    background: white;
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.navbar {
+}
+
+.row {
+    padding: 0px 0px 20px 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+.footer {
+    background: white;
+    height: 100px;
+    width: 100%;
+}
